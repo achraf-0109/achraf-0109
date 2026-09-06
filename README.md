@@ -77,7 +77,7 @@
   <a href="mailto:achrafhendkias34@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in//achraf-hendkias-61a823373/">
+  <a href="https://www.linkedin.com/in/achraf-hendkias-61a823373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/achraf-0901">
